@@ -37,6 +37,7 @@
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
     <a href="#"><img alt="NestJS" src="https://github.com/Leopard2A7V/Leopard2A7V/blob/main/nestjs_logo_icon_169927.svg" height="37"></a>
+    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="28"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
