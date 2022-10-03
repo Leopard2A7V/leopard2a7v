@@ -1,12 +1,12 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/Leopard2A7V/Leopard2A7V/blob/main/waving.gif">, I'm Imperial Tu Ho</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/imperialtuho/aboutme/blob/main/waving.gif">, I'm Imperial Tu Ho</h1>
 <p align="center">
   Success is not final, failure is not fatal: it is courage to continue that counts.
 </p>
 <h4 align="center">A computer engineering, a backend developer and also graduated from Can Tho university</h4>
 </div>
 <div align="center">
-  <img  src="https://github.com/Leopard2A7V/Leopard2A7V/blob/main/snake.svg"
+  <img  src="https://github.com/imperialtuho/aboutme/blob/main/snake.svg"
        alt="snake" /></a>
 </div>
 
